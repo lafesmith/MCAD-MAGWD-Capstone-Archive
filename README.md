@@ -1,2 +1,3 @@
-# MCAD-MAGWD-Capstone-Archive
-An archive of MA in Graphic and Web Design Capstone projects.
+# MCAD.online
+
+A showcase of work for students in the [MA in Graphic and Web Design](https://mcad.edu/magwd)
